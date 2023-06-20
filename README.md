@@ -75,63 +75,66 @@ Arraste a pasta com o seu site para dentro do "public_html" ;
 </div>
 
 ## Etapa 13:
-
+Essa parte é onde a gente gerencia o nosso formulario de contato , o banco de dados , clique em "novo" ; 
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/13.png">
 </div>
 
 ## Etapa 14:
-
+Escolha o nome e crie o seu banco de dados ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/14.png">
 </div>
 
 ## Etapa 15:
-
+Selecione o seu arquivo com o banco de dados ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/15.png">
 </div>
-## Etapa 16:
 
+## Etapa 16:
+Depois vá em "importar" ; 
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/16.png">
 </div>
 ## Etapa 17:
-
+Vai aparecer mais ou menos essa tela ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/17.png">
 </div>
-## Etapa 18:
 
+## Etapa 18:
+Agora vamos upar o site em FTP, clique em "sites" novamente e depois em "gerenciar" ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/18.png">
 </div>
-## Etapa 19:
 
+## Etapa 19:
+Arraste para baixo ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/19.png">
 </div>
 
 ## Etapa 20:
-
+Vai em contas FTP , escolha um nome de usuario e uma senha ( guarde elas ) ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/20.png">
 </div>
 
 ## Etapa 21:
-
+Depois copie e cole dentro do aplicativo ( FileZilla ) ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/21.png">
 </div>
 
 ## Etapa 22:
-
+Vai pegar o host , o nome de usuario, a senha e a porta e colar cada um no seu lugar ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/22.png">
 </div>
 
 ## Etapa 23:
-
+Depois selecione os arquivos do seu site e arraste para o FileZilla ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/23.png">
 </div>

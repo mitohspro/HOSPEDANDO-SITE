@@ -14,7 +14,7 @@ TUTORIAL
 </div>
 
 ## Etapa 03:
- Clica em Domínio ;
+ Clica em "Domínio" ;
  <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/3.png">
 </div>
@@ -26,13 +26,13 @@ TUTORIAL
 </div>
 
 ## Etapa 05:
-Click em Sites, após isso vá em "Criar ou migrar um site" ;
+Click em "Sites", após isso vá em "Criar ou migrar um site" ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/5.png">
 </div>
 
 ## Etapa 06:
-Escolha o seu tipo de site, ou click em pular ;
+Escolha o seu tipo de site, ou click em "pular" ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/6.png">
 </div>
@@ -44,13 +44,13 @@ Aqui você seleciona o domínio que você comprou ;
 </div>
 
 ## Etapa 08:
-Click em gerenciar Site ;
+Click em "gerenciar Site" ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/8.png">
 </div>
 
 ## Etapa 09:
-Vá em gerenciador de arquivos ;
+Vá em "gerenciador de arquivos" ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/9.png">
 </div>

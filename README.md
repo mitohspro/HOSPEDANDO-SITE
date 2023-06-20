@@ -2,73 +2,74 @@
 TUTORIAL
 
 ## Etapa 01:
- Crie uma conta na hosting;
+ Crie uma conta na hosting ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/1.png">
 </div>
 
 ## Etapa 02: 
- Escolha seu plano de hospdagem;
+ Escolha seu plano de hospdagem ;
  <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/2.png">
 </div>
 
 ## Etapa 03:
- Clica em Domínio 
+ Clica em Domínio ;
  <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/3.png">
 </div>
 
 ## Etapa 04:
- Escolha um domínio e o compre;
+ Escolha um domínio que atenda a sua necessidade ;
  <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/4.png">
 </div>
 
 ## Etapa 05:
-Click em Sites, após isso vá em "Criar ou migrar um site";
+Click em Sites, após isso vá em "Criar ou migrar um site" ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/5.png">
 </div>
 
 ## Etapa 06:
-Escolha o seu tipo de site, ou click em pular;
+Escolha o seu tipo de site, ou click em pular ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/6.png">
 </div>
 
 ## Etapa 07:
-Aqui você seleciona o domínio que você comprou;
+Aqui você seleciona o domínio que você comprou ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/7.png">
 </div>
+
 ## Etapa 08:
-Click em gerenciar Site;
+Click em gerenciar Site ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/8.png">
 </div>
 
 ## Etapa 09:
-Vá em gerenciador de arquivos;
+Vá em gerenciador de arquivos ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/9.png">
 </div>
 
 ## Etapa 10:
-Click na pasta "public_html";
+Click na pasta "public_html" ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/10.png">
 </div>
 
 
 ## Etapa 11:
-Vá na pasta onde está os arquivos do seu site; 
+Vá na pasta onde está os arquivos do seu site ; 
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/11.png">
 </div>
 
 ## Etapa 12:
-Arraste a pasta com o seu site para dentro do "public_html";
+Arraste a pasta com o seu site para dentro do "public_html" ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/12.png">
 </div>

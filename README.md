@@ -1,7 +1,8 @@
 # HOSPEDANDO-SITE
 TUTORIAL
 
-## Etapa 01: crie uma conta na hosting 
+## Etapa 01
+ crie uma conta na hosting 
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/1.png">
 </div>

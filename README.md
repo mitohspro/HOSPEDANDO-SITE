@@ -140,7 +140,7 @@ Depois selecione os arquivos do seu site e arraste para o FileZilla ;
 </div>
 
 ## Etapa 24:
-
+Depois de arrastar para cá seu site ja vai estar hospedado ;
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/24.png">
 </div>

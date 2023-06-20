@@ -2,7 +2,7 @@
 TUTORIAL
 
 ## Etapa 01
- Crie uma conta na hosting 
+ Crie uma conta na hosting
 <div align="left">
 <img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/1.png">
 </div>

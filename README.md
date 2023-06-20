@@ -3,7 +3,8 @@ TUTORIAL
 
 ## Etapa 01: crie uma conta na hosting 
 <div align="left">
-<img src=""
+<img src="https://github.com/mitohspro/HOSPEDANDO-SITE/blob/main/1.png">
+</div>
 
 ## Etapa 02: criar um protótipo 
  Exemplos do bootstrap.

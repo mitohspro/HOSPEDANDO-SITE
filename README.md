@@ -1,8 +1,9 @@
 # HOSPEDANDO-SITE
 TUTORIAL
 
-## Etapa 01: Planejar e analisar
- Durante o planejamento nós os desenvolvedores responemos algumas questões, entre elas: quais recursos que serão necessários e como podemos atender suas necessidades.
+## Etapa 01: crie uma conta na hosting 
+<div align="left">
+<img src=""
 
 ## Etapa 02: criar um protótipo 
  Exemplos do bootstrap.
